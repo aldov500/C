@@ -1,0 +1,55 @@
+%SIGNAL
+PIN   1 =  clk 
+PIN  14 =  v 
+PIN  15 =  w 
+PIN  16 =  x 
+PIN  17 =  y 
+PIN  18 =  z 
+%END
+
+%FIELD
+FIELD contador = v,w,x,y,z
+%END
+
+%EQUATION
+v.d  =>
+    !v & !w & !x & !y & z
+  # v & !w & !x & !y & !z
+  # !v & w & !x & !y
+  # !v & x
+  # !v & !x & y
+
+w.d  =>
+    !w & !x & !y & z
+  # w & !x & !y & !z
+  # !w & !x & y
+  # !w & x
+
+x.d  =>
+    !x & !y & z
+  # x & !y & !z
+  # !x & y
+
+y.d  =>
+    !y & z
+  # y & !z
+
+z.d  =>
+    z
+
+v.oe  =>
+    1 
+
+w.oe  =>
+    1 
+
+x.oe  =>
+    1 
+
+y.oe  =>
+    1 
+
+z.oe  =>
+    1 
+
+%END

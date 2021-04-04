@@ -1,0 +1,122 @@
+{COMPONENT C:\USERS\MANUEL\DESKTOP\WINCUPL\CONTADOR EEPROM.SYM
+
+ {ENVIRONMENT
+  {PDIFvrev 3.00}
+  {Program "CUPL(WM) Version 5.0a"}
+  {DBtype "Schematic"}
+  {DBvrev 1.01}
+  {DBtime "Mon Feb 16 16:56:19 2015 "}
+  {DBunit "MIL"}
+  {DBgrid 10}
+  {Lyrstr "WIRES" 1 "BUS" 1 "GATE" 2 "IEEE" 2 "PINFUN" 3 "PINNUM" 1 
+          "PINNAM" 6 "PINCON" 4 "REFDES" 2 "ATTR" 6 "SDOT" 1 
+          "DEVICE" 5 "OUTLIN" 5 "ATTR2" 6 "NOTES" 6 "NETNAM" 4 
+          "CMPNAM" 5 "BORDER" 5}
+ }
+
+ {USER
+  {VIEW
+   {Mode SYMB}
+   {Nlst OPEN}
+   {Vw 0 0 2}
+   {Lv 12 2 2 2 0 0 2 2 2 2 0 0 2 1 2 0 0 0 0}
+   {Gs 10 10}
+  }
+ }
+
+ {DISPLAY
+  [Ly "PINNUM"]
+  [Ls "SOLID"][Wd 0]
+  [Ts 15][Tj "LC"][Tr 0][Tm "N"]
+ }
+
+ {SYMBOL
+  {PIN_DEF
+   [Ly "PINCON"]
+   {P CLK {Pt "INPUT"}{Lq 0}{Ploc 100 20}}
+   {P V {Pt "OUTPUT"}{Lq 0}{Ploc 280 20}}
+   {P W {Pt "OUTPUT"}{Lq 0}{Ploc 280 40}}
+   {P X {Pt "OUTPUT"}{Lq 0}{Ploc 280 60}}
+   {P Y {Pt "OUTPUT"}{Lq 0}{Ploc 280 80}}
+   {P Z {Pt "OUTPUT"}{Lq 0}{Ploc 280 100}}
+  }
+
+  {PKG
+   [Ly "REFDES"]
+   [Ts 25][Tj "CB"][Tr 0][Tm "N"]
+   {Rdl 190 130}
+
+   [Ly "PINNUM"]
+   [Ts 15][Tj "RC"]
+   {Pnl 120 30}
+   [Ts 15][Tj "LC"]
+   {Pnl 260 30}
+   {Pnl 260 50}
+   {Pnl 260 70}
+   {Pnl 260 90}
+   {Pnl 260 110}
+
+   {Sd A 1 14 15 16 17 18}
+  }
+
+  {PIC
+   [Ly "GATE"]
+   [Ts 15][Tj "LC"][Tr 0][Tm "N"]
+   {R 130 120 250 0}
+   {L 130 20 100 20}
+   {L 130 30 140 20 130 10}
+   {L 250 20 280 20}
+   {L 250 40 280 40}
+   {L 250 60 280 60}
+   {L 250 80 280 80}
+   {L 250 100 280 100}
+   [Ly "PINNAM"]
+   [Tj "LC"]
+   {T "CLK" 140 20}
+   [Tj "RC"]
+   {T "V" 240 20}
+   {T "W" 240 40}
+   {T "X" 240 60}
+   {T "Y" 240 80}
+   {T "Z" 240 100}
+   [Ly "DEVICE"]
+   [Tj "CT"]
+   {T "G22V10" 190 -10}
+  }
+
+  {ATR
+   {IN
+    {Org 100 0}
+    {Ty 255}
+   }
+   {EX
+    [Ly "ATTR2"]
+    [Ts 12][Tj "CT"][Tr 0][Tm "N"]
+    {At PLD C:\USERS\MANUEL\DESKTOP\WINCUPL\CONTADOR EEPROM 190 120}
+   }
+  }
+ }
+
+ {DETAIL
+  {ANNOTATE
+  }
+
+  {NET_DEF
+   {N CLK
+   }
+   {N V
+   }
+   {N W
+   }
+   {N X
+   }
+   {N Y
+   }
+   {N Z
+   }
+  }
+
+  {SUBCOMP
+  }
+ }
+}

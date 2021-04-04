@@ -1,0 +1,86 @@
+Name     Contador EEPROM ;
+PartNo   00 ;
+Date     16/02/2015 ;
+Revision 01 ;
+Designer Manuelo ;
+Company  UdG ;
+Assembly None ;
+Location Mexico;
+Device   g22v10 ;
+
+pin 1= clk;
+
+pin 14= v;
+pin 15= w;
+pin 16= x;
+pin 17= y;
+pin 18= z;
+
+FIELD contador = [v,w,x,y,z];
+$define S0 'h'00
+$define S1 'h'01
+$define S2 'h'02
+$define S3 'h'03
+$define S4 'h'04
+$define S5 'h'05
+$define S6 'h'06
+$define S7 'h'07
+$define S8 'h'08
+$define S9 'h'09
+$define S10 'h'A
+$define S11 'h'B
+$define S12 'h'C
+$define S13 'h'D
+$define S14 'h'E
+$define S15 'h'F
+$define S16 'h'10
+$define S17 'h'11
+$define S18 'h'12
+$define S19 'h'13
+$define S20 'h'14
+$define S21 'h'15
+$define S22 'h'16
+$define S23 'h'17
+$define S24 'h'18
+$define S25 'h'19
+$define S26 'h'1A
+$define S27 'h'1B
+$define S28 'h'1C
+$define S29 'h'1D
+$define S30 'h'1E
+$define S31 'h'1F
+
+SEQUENCE contador {
+Present S0 next S1;
+Present S1 next S2;
+Present S2 next S3;
+Present S3 next S4;
+Present S4 next S5;
+Present S5 next S6;
+Present S6 next S7;
+Present S7 next S8;
+Present S8 next S9;
+Present S9 next S10;
+Present S10 next S11;
+Present S11 next S12;
+Present S12 next S13;
+Present S13 next S14;
+Present S14 next S15;
+Present S15 next S16;
+Present S16 next S17;
+Present S17 next S18;
+Present S18 next S19;
+Present S19 next S20;
+Present S20 next S21;
+Present S21 next S22;
+Present S22 next S23;
+Present S23 next S24;
+Present S24 next S25;
+Present S25 next S26;
+Present S26 next S27;
+Present S27 next S28;
+Present S28 next S29;
+Present S29 next S30;
+Present S30 next S31;
+Present S31 next S0;
+}

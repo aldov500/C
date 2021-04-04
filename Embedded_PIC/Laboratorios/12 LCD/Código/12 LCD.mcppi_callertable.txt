@@ -1,0 +1,8 @@
+main
+	__CC2DW
+		____DoICP
+	Enable
+	Cadena1
+		Enable
+	CADENA2
+		Enable
