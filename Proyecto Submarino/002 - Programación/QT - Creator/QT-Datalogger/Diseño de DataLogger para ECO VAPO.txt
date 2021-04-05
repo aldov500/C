@@ -1,0 +1,32 @@
+Diseño de DataLogger para ECO VAPO 
+
+Eventos posibles
+	Objeto detectado
+	Captura de Imagen
+	Captura de Video
+	Modo Automático Activado
+	Modo Automático Desactivado
+	Luces Encendidas
+	Luces Apagadas
+	Modo Ahorro de Energía Encendido
+	Modo Ahorro de Energía Apagado
+	Cambio en las Configuraciones
+	Inicio del Sistema
+
+Caracteristicas de los Eventos
+	Profundidad
+	Orientación X1
+	Orientación X2
+	Orientación Y1
+	Orientación Y2
+	Orientación Z1
+	Orientación Z2
+	Posición
+	Hora
+	Fecha
+	Operador
+	
+
+
+
+

@@ -1,0 +1,24 @@
+1 - Vehiculo Submarino DTG2, Deeptrekker
+2 - Haixing 6000, Shenyang Institute of Automation
+3 - Humedal de valesquillo, Puebla
+4 - Humedal de Chapala, Jalisco.
+5 - ESP8266, Espressif Systems.
+6 - Ejemplo de sesión Telnet
+7 - MPU6050, Invensense.
+8 - Qt-Creator, The Qt Company
+9 - ServoMotor generico.
+10 - Partes internas de ServoMotor
+11 - Ciclos de trabajo PWM
+12 - Motor brushless generico
+13 - Controlador ESC genérico
+14 - Sistema Operativo Raspbian
+15 - Raspberry Pi 3
+16 - Arduino Company
+17 - Arduino MEGA
+18 - Ejemplo de JSON
+19 - Diagrama de JSON
+20 - Ecuacion de Control PID
+
+
+
+

@@ -1,0 +1,6 @@
+Sensor de Presion MPX10DP
+Fuente de DC
+4 resistencias de 1k
+2 resistencias de 10k
+1 pot 10 k
+3 amplificadores operacionales TL081

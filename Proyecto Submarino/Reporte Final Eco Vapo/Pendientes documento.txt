@@ -1,0 +1,15 @@
+
+
+
+- Hacer el Indice
+- Agregar las imagenes
+- Hacer la bibliografía
+- Enlazar la bibliografía con el texto
+
+
+https://github.com/Motion-Project/motion
+
+https://arduino-esp8266.readthedocs.io/en/2.4.2/esp8266wifi/readme.html
+
+
+

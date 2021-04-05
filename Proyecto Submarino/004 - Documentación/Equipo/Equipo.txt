@@ -1,0 +1,41 @@
+Equipo:
+Vargas Meza Aldo Alexandro
+213495653
+aldo.vargas@alumnos.udg.mx
+Arreguin Sandoval Luis Antonio
+213494932
+luis.arreguin@alumnos.udg.mx
+Maldonado Ortiz Ricardo Cenit 
+210578965
+ricardo.maldonado@alumnos.udg.mx
+
+Horarios
+Lunes	Antes de las 11 o despues de las 19
+Ar 	11 a 13, y de 15 a 19
+Ce	15 a 19
+Al	Free
+
+Martes	De 11 a 13, Despues de las 19
+Ar 	13 a 19
+Ce 	7 a 11, 15 a 17
+Al	15 A 19
+
+Miercoles	Despues de las 19
+Ar	11 a 13, y de 15 a 19	
+Ce	9 a 11, 15 a 19
+Al	Free 
+
+Jueves	Despues de las 19
+Ar	13 a 19
+Ce	7 a 11, 15 a 17
+Al	17 a 19
+
+Viernes	Despues de las 17 
+Ar	14 a 17
+Ce	9 a 11, 15 a 17
+Al	15 a 17
+
+Lunes de 8hrs a 11hrs
+Viernes de 11hrs a 14hrs 
+
+Domingos de 10 a 15

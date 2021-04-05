@@ -1,0 +1,36 @@
+
+
+Ubicación Espacial
+
+Control Empírico
+- Elementos visuales QT
+- Metodología de control
+
+Control PID
+- Aplicacion
+- Metodología de aplicacion
+- Programa Arduino
+
+Arduino
+- Evento serial
+- Control PID
+- Control manual
+- Recepción de JSON
+		
+PCB
+- Diseño
+- Tamaño de pistas
+- Material
+- Método
+- Correcciones
+- Pruebas
+
+- Hacer el Indice
+- Agregar las imagenes
+- Hacer la bibliografía
+- Enlazar la bibliografía con el texto
+
+
+https://github.com/Motion-Project/motion
+
+https://arduino-esp8266.readthedocs.io/en/2.4.2/esp8266wifi/readme.html

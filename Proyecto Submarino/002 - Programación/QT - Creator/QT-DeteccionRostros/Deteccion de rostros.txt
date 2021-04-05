@@ -1,0 +1,20 @@
+El objetivo de esta actividad es el de utilizar la tecnica de clasificador de cascada para detectar rostros de una imagen.
+
+La tecnica de clasificador de cascadas. Este detector se ha hecho muy popular debido a su velocidad a la hora de detectar las caras en imágenes y para su implementación en la librería OpenCV.
+
+El primer paso es crea un nuevo proyecto en Qt-Creator, seleccionamos la ruta y la configuración predeterminada para un nuevo proyecto de aplicacion de widget.
+
+Nos dirigimos al archivo de configuración con extensión .pro para agregar la configuracion de OpenCv.
+
+En el header del archivo principal, incluimos las librerías que se utilizarán en el proyecto.
+
+En el archivo MainWindow.cpp incluimos el header y definimos un nombre de espacio para las funciones de Open Cv. En las variables globales se define la Cámara, dos variables para la cascada de clasificadores, así como dos cadenas para la ruta de los anteriores.
+
+En la función constructora se declara una función de QTimer la cual ejecuta una función cada milisegundo. Además, se encarga de monitorear que la camara y el clasificador de cascada sean correctamente cargados.
+
+La función repetitiva guarda en matrices las imagenes que va procesando. Guarda tambíen una seríe de puntos, vectores y areas de interes para cada detección. Cuando la detección se lleva a cabo se dibuja un circulo y se guarda una imagen en un archivo local.
+
+Una vez terminado el ciclo, muestra la imagen actual en la ventana.
+
+
+

@@ -1,0 +1,5 @@
+Añadir al .pro
+
+INSTALLS        = target
+target.files    = widgettest
+target.path     = /home/pi

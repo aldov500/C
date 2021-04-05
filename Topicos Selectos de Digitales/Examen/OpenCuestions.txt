@@ -1,0 +1,45 @@
+Que es configuration manager
+Es el proceso de definir y controlar los elementos y procesos de un sistema, con el fin de generar reportes y documentación que ayude a gestionar de mejor manera el proyecto.
+
+Porque deberiamos usarlo?
+Distintas versiones de archivos, multiples personas involucradas con diferentes roles, control automatico de acuerdo a un metodo
+
+Cual es el proposito?
+Para mantener la integridad en las salidas y etradas del proyecto en todo el proceso de su diseño e implementación
+
+Que puede estar bajo control?
+Cualquier documento
+
+Que debe estar bajo control?
+Herramientas de diseño, codigos fuente, documentación y archivos que se produzcan.
+
+
+Baseline
+Serie de especificaciones que han sido formalmente analizadas por un grupo de trabajo, siendo la base del desarrollo
+
+Release
+La notificacion formal y la distribucion de una version aprobada.
+
+Configuration Item
+Puede ser codigo, documento, plan o conmponente de software en el proceso de configuration management.
+
+
+
+Version Control
+
+Baseline
+Version aprobada del documento o el codigo fuente
+
+Branch
+Conjunto de archivos bajo una version de contorl, al momento de usar una nueva branch dos copias del proyecto se dividen y pueden ser desarrolladas a diferentes velocidades.
+
+Checkout
+Crea una copia local del contenido del repositorio
+
+Commit/Checkin
+Cuando los cambios de alguna copia son mezclados con el proyecto principal
+
+Update
+Mezcla los cambios que hayan sido hechos en una copia al repositorio.
+
+

@@ -1,0 +1,59 @@
+[1]Ramsar. (21 de Nov de 218). Ramsar Organización. Obtenido de https://www.ramsar.org/es/nuevas/chile-nombra-un-nuevo-sitio-ramsar-costero
+
+[2]Villegas, D. E. (s.f.). Deficit del Lago de Chapala. Obtenido de Global Nature: https://www.globalnature.org/bausteine.net/f/7175/DEFICITDELLAGODECHAPALA.pdf?fd=0
+
+[3] Gobierno Federal Mexicano. (s.f.). Visualizador de Humedales. Obtenido de gob.mx: https://www.gob.mx/conagua/acciones-y-programas/visualizador-de-humedales-de-la-republica-mexicana-inventario-nacional-de-humedales
+
+[4]Perez, R. (s.f.). Red de Salud de Cuba. Obtenido de Manual de Metodología de Investigación Cientifica: http://www.sld.cu/galerias/pdf/sitios/cielam/manual_de_metodologia_deinvestigaciones._1.pdf
+
+[5]El Sol de Puebla. (25 de Octubre de 2018). Obtenido de Ecología: https://www.elsoldepuebla.com.mx/doble-via/ecologia/en-el-lago-de-chapala-se-dio-un-milagro-gracias-al-huracan-willa-recuperacion-jalisco-2329667.html
+
+[6]Ocean Service, (25 de Junio 2018). Whats the difference between AUV and ROV?. Obtenido de https://oceanservice.noaa.gov/facts/auv-rov.html 
+
+[7]Buceo Iberico, (11 de Agosto 2015). El viaje submarino de Alejandro Magno. Obtenido de http://www.buceoiberico.com/mundo-submarino/el-viaje-submarino-de-alejandro-magno/
+
+[8] WaybackMachine. Who was Cornelious J. Drebbel. Recuperado de https://web.archive.org/web/20050305134459/http://www.drebbel.utwente.nl/main_en/Information/History/History.htm
+
+[9]Abc. Sonar: La clave para vencer a los Nazi, segunda guerra mundial https://www.abc.es/https://www.abc.es/archivo/20140912/abci-sonar-arma-submarinos-nazis-201409101551.html. Recuperado de archivo/20140912/abci-sonar-arma-submarinos-nazis-201409101551.html
+
+[10]Imnovation. Robótica Submarina para la sostenibilidad del oceano. Recuperado de https://www.imnovation-hub.com/es/transformacion-digital/robotica-submarina-para-la-sostenibilidad-y-la-observacion-del-oceano/
+
+[11]Kongsberg. Remus Sensors and Payloads. Recuperado de https://www.km.kongsberg.com/ks/web/nokbg0240.nsf/AllWeb/2F35709FDEE1BBBFC12574B000391ABC?OpenDocument
+
+[12]QStar Rov Pilot Center. ¿Que es un Rov?. Recuperado de https://www.rovs.es/que-es-un-rov
+
+[13] Angel Simon. La protección de los humedales, clave para el desarrollo sostenible. Recuperado de http://www.angelsimon.com/agua/-/asset_publisher/HuYstMyfpADu/content/la-proteccion-de-los-humedales-clave-para-el-desarrollo-sostenible
+
+[14] ESP826601 WIFI https://ecksteinimg.de/Datasheet/Ai-thinker%20ESP-01%20EN.pdf
+
+[15] Protocolo Telnet y SSH http://elara.site.ac.upc.edu/documentacion/INTERNET%20-%20UD7%20-%20TELNET%20-%20SSH.pdf
+
+[16] Comparación de la eficiencia volumétrica entre redes inalámbricas WiFi y WiMAX-. Capítulo 3.Estadar IEEE 802.11 WiFi- Recuperado de http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/164/A6.pdf?sequence=6
+
+[17] Definición de JSON. Introduction to JSON. Recuperado de https://www.json.org/
+
+[18] MPU6050. Het Pro. Recuperado de https://hetpro-store.com/mpu6050/
+
+[19]Qt Documentation. Qt Creator. Recuperado de http://doc.qt.io/qt-5/index.html
+
+[20]Welcome to Bjarne Stroustrup's homepage!. C++ Programming Language. Recuperado de http://www.stroustrup.com/
+
+[21] CSCARZOLA, Sistema de Navegación Inercial (26 Abril 2011). Xataka Ciencia. Recuperado de https://www.xatakaciencia.com/sabias-que/que-es-un-sistema-de-navegacion-inercial
+
+[22]Red de Revistas Cientificas de America Latina, Diseño e implementación de una unidad de medición... Recuperado de http://www.redalyc.org/pdf/750/75004709.pdf
+
+[23] Plantea. Composición de ServoMotor. Recuperado de http://platea.pntic.mec.es/vgonzale/cyr_0204/ctrl_rob/robotica/sistema/motores_servo.htm
+
+[24] ¿Que es una Señal Modulada por Ancho de Pulso (PWM) y Para Qué es Utilizada?. National Instruments. Recuperado de ]http://digital.ni.com/public.nsf/allkb/AA1BDEA4AA224E3E86257CE400707527
+
+[25] Quadrino. Motores Brushless. Recuperado de http://www.quadruino.com/guia-2/materiales-necesarios-1/motores-brushless
+
+[26]Prometec. Guia para principiantes. Baterias Lipo. Recuperado de https://www.prometec.net/elegir-bateria-lipo/
+
+[27] Raspberry Pi Documentation. Recuperado de https://www.raspberrypi.org/documentation/
+
+[28] About Us. Arduino. Recuperado de https://www.arduino.cc/en/Main/AboutUs
+
+[29] Faculty of Engineering and Built Enviroment, Newcastle, Australia. Controladores PID. Recuperado de http://www.eng.newcastle.edu.au/~jhb519/teaching/caut1/Apuntes/PID.pdf
+
+[30] Documentación Core. ESP8266. Recuperado de https://arduino-esp8266.readthedocs.io/en/2.4.1/

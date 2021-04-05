@@ -1,0 +1,37 @@
+Buen Dia Compañeros
+
+La practica 4 ya esta aqui.
+
+Para realizar esta practica necesitaran crear una cuenta en github
+
+https://github.com/
+
+Despues de crearla necesitaran permisos de colaborador para poder hacer cambios. 
+
+Tendran que buscar el usuario EmbeddedSWUDG en github y solicitar permiso para colaborar.
+
+Otra manera de hacerlo es mandarme su nombre de usuario de github para mandarles la invitacion.
+
+Para obtener una copia del proyecto no es necesario tener permisos.
+
+Una vez que tengan los permisos, pueden usar tortoise para hacer un checkout del proyecto y hacer la practica.
+
+Los que tengan MCU Expresso no necesitan tortoise, pueden importar un proyecto directamente de GIT al hacer click en import y despues en GIT.
+
+El proyecto en github se llama BasePWMProyect.
+
+La idea de la practica es que empiecen a manejar una herramienta de control de versiones. Cada cambio que ustedes suban al repositorio se guardara en el historial de cambios con el nombre de la persona que lo hizo. Cada miembro de los equipos tendra que subir un cambio para que se les haga valida la practica.
+
+Les envio el proyecto aparte para que empiecen a trabajar en lo que les doy los permisos de colaboradores. En cuanto los tengan, cada equipo tendra que hacer un branch (Variante) para subir sus cambios. 
+
+Los requeriemientos estan adjuntos al correo.
+
+La fecha de entrega es para el 12 de octubre.
+
+Si tienen dudas o comentarios pueden contactarme.
+
+Saludos
+
+Omar Sevilla
+SW Embedded Mentors
+Continental Automotive
